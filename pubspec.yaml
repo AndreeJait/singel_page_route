@@ -1,8 +1,7 @@
 name: singel_page_route
 description: A singel page route
 version: 0.0.1
-authors: Andree Panjaitan
-homepage:
+homepage: https://github.com/AndreeJait/singel_page_route
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
